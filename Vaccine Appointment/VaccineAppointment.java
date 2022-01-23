@@ -176,3 +176,4 @@ public class VaccineAppointment {
 		
 			scanner.close();  //closing the scanner
 }}
+//end of program
